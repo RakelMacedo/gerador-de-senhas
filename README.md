@@ -28,10 +28,14 @@ Conforme sua necessidade, escolha um número referente a força de sua senha.
 4) Forte: Combo aleatório de caracteres minúsculos, maiúsculos, números e símbolos.
 
 Digite aqui o número da opção desejada >> 4
+```
 
+```bash
 Digite o tamanho de sua senha (Quantidade de caracteres)
 Para uma senha forte, recomendamos de 18 caracteres pra cima >> 20
+```
 
+```bash
 Aqui está sua senha : >>>  4WB7|A&%paJpN_HprZX<  <<<
 
 O que deseja fazer?
@@ -40,7 +44,9 @@ O que deseja fazer?
 2) Encerrar Gerador de Senhas 1.0
 
 Digite aqui o número da opção desejada >> 2
+```
 
+```bash
 Obrigada por usar o Gerador de Senhas 1.0 !!
 Volte sempre que quiser ! S2
 ```
