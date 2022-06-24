@@ -1,5 +1,34 @@
-# gerador-de-senhas
+### gerador-de-senhas
 Gerador de senhas feito em Python
+
+#
+
+### 🔨 Instalando o projeto:
+
+- Clone o repositório:
+```
+git clone https://github.com/RakelMacedo/gerador-de-senhas.git
+```
+#
+
+### 🛠️ Abrindo e rodando o projeto:
+
+Através do terminal:
+
+- Vá para o diretório onde o repositório foi clonado e execute o arquivo principal:
+```
+$ python3 main.py
+``` 
+O programa executará. ;)
+
+# 
+
+Através de uma IDE de sua escolha:
+
+- Execute/rode o arquivo *main.py* e o programa executará. ;)
+
+#
+
 
 ### Exemplo de uso: 
 
