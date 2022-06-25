@@ -15,7 +15,12 @@ git clone https://github.com/RakelMacedo/gerador-de-senhas.git
 
 Através do terminal:
 
-- Vá para o diretório onde o repositório foi clonado e execute o arquivo principal:
+- Após a clonagem vá para dentro de gerador-de-senhas:  
+```
+$ cd gerador-de-senhas.git
+``` 
+
+- Execute o arquivo principal:
 ```
 $ python3 main.py
 ``` 
