@@ -7,7 +7,7 @@ Gerador de senhas feito em Python
 
 - Clone o repositório:
 ```
-git clone https://github.com/RakelMacedo/gerador-de-senhas.git
+$ git clone https://github.com/RakelMacedo/gerador-de-senhas.git
 ```
 #
 
@@ -17,7 +17,7 @@ Através do terminal:
 
 - Após a clonagem vá para dentro de gerador-de-senhas:  
 ```
-$ cd gerador-de-senhas.git
+$ cd gerador-de-senhas/
 ``` 
 
 - Execute o arquivo principal:
